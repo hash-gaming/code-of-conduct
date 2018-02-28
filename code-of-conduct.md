@@ -62,6 +62,10 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from the community and identification of the participant as a harasser to other members. At the discretion of the admins, or by request, one or more of the parties involved may request to discuss the violation and how to avoid similar situations in the future.
 
+## Moderator Discretion
+
+The Code of Conduct is enforced at the discretion of the moderators and is not in any way a complete or binding document for a moderator to enforce. The omission or inclusion of a topic/behavior does not force a moderator into action. Circumstances and special cases can require more than this document can provide.
+
 ## Acknowledgements
 
 This Code of Conduct is adapted from the Community Covenant (http://community-covenant.net), version 1.0, available at http://community-covenant.net/version/1/0/. The Community Covenant is an open source effort and is built on codes of conduct that came before it, including the Contributor Covenant (http://contributor-covenant.org/) and the LGBTQ in Tech community code of conduct (http://lgbtq.technology/coc.html).
