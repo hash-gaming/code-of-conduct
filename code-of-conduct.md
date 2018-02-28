@@ -64,7 +64,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 ## Moderator Discretion
 
-The Code of Conduct is enforced at the discretion of the moderators and is not in any way a complete or binding document for a moderator to enforce. The omission or inclusion of a topic/behavior does not force a moderator into action. Circumstances and special cases can require more than this document can provide.
+The Code of Conduct is enforced at the discretion of the moderators and is not in any way a complete or binding document for a moderator to enforce. The omission or inclusion of a topic/behavior does not force a moderator into action. Context and intent are taken into consideration.
 
 ## Acknowledgements
 
