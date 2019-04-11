@@ -43,7 +43,7 @@ This community will not tolerate harassment of any kind. Examples of harassment 
 If you have questions or concerns about these issues please feel free to message an admin or ask for an opportunity to explore the issue with a moderator and volunteers.
 
 ## Advertising/Soliciting Statement
-All forms of advertising, soliciting, self promotion, and/or paid promotion are not allowed except with the explicit concent of the moderation team. Anyone who breaks this rule will be subject to the enforcement and consequences listed below.
+All forms of advertising, soliciting, self promotion, and/or paid promotion are not allowed except with the explicit consent of the moderation team. Anyone who breaks this rule will be subject to the enforcement and consequences listed below.
 
 ## Reporting
 
